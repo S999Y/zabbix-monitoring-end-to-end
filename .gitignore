@@ -6,6 +6,7 @@ infra-state.json
 Thumbs.db
 
 # Editor
-.vscode/
 *.swp
 *~
+config.bat
+node_modules
